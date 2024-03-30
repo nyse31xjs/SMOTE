@@ -8,6 +8,6 @@ The objective of this tiny use case is to introduce how the algorithm works, and
 
 
 
-Hugo part 1
+Author : Hugo Rameil, march 2024
 
 
